@@ -1,15 +1,6 @@
-# Smallsh - In Rust
-
-I had to write this in C for my operating systems class and I felt that Rust would be a viable supplemental challenge. Feel free to judge :)
-
-It's a tiny shell with a few builtins, all in rust.
-
-Program description below
-
-----
 
 
-# Program 3 – CS 344
+# SmallSH
 
 ## Overview
 In this assignment you will write your own shell in C, similar to bash. No other languages, including C++, are allowed, though you may use any version of C you like, such as C99. The shell will run command line instructions and return the results similar to other shells you have used, but without many of their fancier features.
